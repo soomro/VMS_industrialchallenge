@@ -1,13 +1,6 @@
-#summary One-sentence summary of this page.
 
-= Introduction. =
+*The feature will be discussed here 
+According to the discussion 
+the feature can be removed or changed.
 
-Add your content here..
-
-
-= Details. =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+One responsible person should do that change*
