@@ -1,4 +1,4 @@
-__Features of our system will be listed and discussed here._
+_Features of our system will be listed and discussed here._
 _All the features are listed here with their explanations._
 _If you have any idea about any feature, click its name, write your idea as comment._
 _Later, I will change the description of that feature, or remove it, according to the discussion._
