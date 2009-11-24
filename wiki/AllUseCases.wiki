@@ -1,0 +1,22 @@
+= ALL USE CASES =
+
+  *UC01CreateCrisis
+  *UC02EditCrisis
+  *UC03CloseCrisis
+  *UC04CreateIncident
+  *UC05EditIncident
+  *UC06CreateRequest
+  *UC07EditRequest
+  *UC08AnswerRequest
+  *UC09ManagerLogin
+  *UC10VolunteerLogin
+  *UC11ManagerRegister
+  *UC12VolunteerRegister
+  *UC13VolunteerEditsProfile
+  *UC14ManageVolunteerInformation
+  *UC15ReportIncident
+  *UC16SendAlert
+  *UC17ReportIncidentProgress
+  *UC18FindandSelectVolunteers
+  *UC19GetCrisisReport
+  *UC20CreatenewVolunteerGroup
